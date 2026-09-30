@@ -65,8 +65,8 @@ Make sure you have **Node.js** (v18+) and **npm** installed.
 
 ### 1. Clone & Navigate to Project Directory
 ```bash
-git clone https://github.com/Pratham-2005/Civix-Group-4.git
-cd Civix-Group-4
+git clone https://github.com/ameda-rohith/Civix.git
+cd Civix
 ```
 
 ### 2. Install Dependencies
